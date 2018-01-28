@@ -1,0 +1,2 @@
+# rewoltkuki
+rewoltkuki.mining
